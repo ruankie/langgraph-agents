@@ -3,3 +3,5 @@ ipykernel==6.29.5
 langchain==0.2.14
 langchain-openai==0.1.21
 openai==1.40.8
+langgraph==0.2.4
+langchain_community==0.2.12
